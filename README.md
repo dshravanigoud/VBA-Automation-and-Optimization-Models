@@ -7,7 +7,6 @@ Excellent — this is a VBA Automation & Quantitative Excel Modeling Project com
 
 Here’s your structured output:
 
-⸻
 
 ✅ Repository Name Recommendation
 
@@ -24,7 +23,6 @@ Other strong options:
 👉 Best professional positioning:
 Excel VBA Financial Modeling & Monte Carlo Automation
 
-⸻
 
 📄 README.md
 
@@ -42,7 +40,6 @@ The objective was to automate financial simulations, portfolio optimization, and
 
 This project bridges traditional Excel modeling with programmatic automation.
 
-⸻
 
 🎯 Objectives
 	•	Automate Monte Carlo simulations using VBA
@@ -56,7 +53,6 @@ This project bridges traditional Excel modeling with programmatic automation.
 
 🛠 What I Built
 
-⸻
 
 1️⃣ VBA Macro Development
 
@@ -71,7 +67,6 @@ Developed VBA procedures including:
 Example:
 	•	Created a macro that runs 1000 Monte Carlo trials and stores results programmatically.
 
-⸻
 
 2️⃣ Monte Carlo Simulation with VBA
 
@@ -87,7 +82,6 @@ For x = 1 To 1000
 
 This replaces manual recalculation and dramatically increases modeling efficiency.
 
-⸻
 
 3️⃣ Risk-Adjusted Future Value Function
 
@@ -105,7 +99,6 @@ End Function
 
 This integrates volatility penalty directly into return calculations.
 
-⸻
 
 4️⃣ Payment-Based Volatility Model
 
@@ -115,7 +108,6 @@ Built macro-driven payment accumulation model:
 	•	Volatility erosion impact
 	•	Automated recalculation using form controls
 
-⸻
 
 5️⃣ Solver Automation (Portfolio Optimization)
 
@@ -129,7 +121,6 @@ SolverSolve UserFinish:=True
 
 This simulates institutional portfolio optimization workflows.
 
-⸻
 
 6️⃣ Matrix Algebra Implementation
 
@@ -143,7 +134,6 @@ Demonstrated understanding of:
 	•	m×n × n×p matrix multiplication
 	•	Financial application of dot products (e.g., portfolio return calculation)
 
-⸻
 
 📊 Key Skills Demonstrated
 	•	VBA programming in Excel
@@ -156,7 +146,6 @@ Demonstrated understanding of:
 	•	Matrix algebra application
 	•	Risk-adjusted compounding techniques
 
-⸻
 
 📈 What This Project Demonstrates
 
@@ -168,7 +157,6 @@ This project showcases the ability to:
 	•	Improve computational efficiency
 	•	Apply quantitative finance principles programmatically
 
-⸻
 
 🧠 Tools Used
 	•	Microsoft Excel
@@ -178,7 +166,6 @@ This project showcases the ability to:
 	•	Financial mathematics
 	•	Matrix algebra concepts
 
-⸻
 
 If you’d like, I can now:
 	•	🔥 Make this sound more Quant Finance focused
