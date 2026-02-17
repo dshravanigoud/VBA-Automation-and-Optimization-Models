@@ -1,36 +1,7 @@
-Excellent — this is a VBA Automation & Quantitative Excel Modeling Project combining:
-	•	VBA macro development
-	•	Monte Carlo automation
-	•	Portfolio optimization (Solver)
-	•	Custom financial functions
-	•	Matrix algebra fundamentals  ￼  ￼
-
-Here’s your structured output:
-
-
-✅ Repository Name Recommendation
-
-🔹 Recommended:
-
-Excel-VBA-Financial-Modeling-Automation
-
-Other strong options:
-	•	VBA-Monte-Carlo-Portfolio-Model
-	•	Excel-VBA-Quant-Finance-Toolkit
-	•	Financial-Modeling-with-VBA
-	•	VBA-Automation-and-Optimization-Models
-
-👉 Best professional positioning:
-Excel VBA Financial Modeling & Monte Carlo Automation
-
-
-📄 README.md
-
 📊 Excel VBA Financial Modeling & Automation
 
 Macros | Monte Carlo Simulation | Portfolio Optimization | Custom Functions
 
-⸻
 
 📌 Project Overview
 
@@ -49,7 +20,6 @@ This project bridges traditional Excel modeling with programmatic automation.
 	•	Apply matrix algebra foundations
 	•	Improve efficiency of large-scale financial simulations
 
-⸻
 
 🛠 What I Built
 
@@ -76,9 +46,6 @@ Automated:
 	•	1000+ iteration loop using:
 
 For x = 1 To 1000
-
-	•	Stored simulation results in designated output columns
-	•	Reset cursor location for clean UI behavior
 
 This replaces manual recalculation and dramatically increases modeling efficiency.
 
