@@ -134,10 +134,3 @@ This project showcases the ability to:
 	•	Matrix algebra concepts
 
 
-If you’d like, I can now:
-	•	🔥 Make this sound more Quant Finance focused
-	•	📊 Make it more Corporate Finance / FP&A focused
-	•	💼 Convert into resume bullet points
-	•	🧠 Position it for roles like Risk Analyst / Quant Analyst
-
-Tell me your target role.
