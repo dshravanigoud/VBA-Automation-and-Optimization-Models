@@ -1,6 +1,3 @@
-Now I have everything I need. Here's the README:
-
----
 
 # Excel VBA Automation — Financial Modeling & Simulation
 
